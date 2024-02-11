@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun Feb 11 10:39:46 BRT 2024:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-018d-9865-357b-0000025e9be0 
+on database directory C:\Users\rafae\Projetos\git\apache_iceberg\metastore_db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@73d16e93 
+Loaded from file:/C:/Apache%20Spark/spark-3.3.0-bin-hadoop2/jars/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=19+36-2238
+user.dir=C:\Users\rafae\Projetos\git\apache_iceberg
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
