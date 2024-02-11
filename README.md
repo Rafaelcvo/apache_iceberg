@@ -1,2 +1,3 @@
-# apache_iceberg
+# Apache Iceberg
+
 Reposityry for Apache Iceberg tests.
